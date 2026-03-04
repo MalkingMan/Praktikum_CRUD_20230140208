@@ -11,7 +11,8 @@
 
 Akses halaman web di: `http://localhost:8080/index.html`
 
-![Tampilan Daftar Pengguna](Screenshot html.png)
+<img width="960" height="569" alt="Screenshot html" src="https://github.com/user-attachments/assets/2f1b41af-fe06-4f7a-b851-b97967662160" />
+
 
 **Fitur:**
 - ✅ Tambah user baru (Nama & Umur)
